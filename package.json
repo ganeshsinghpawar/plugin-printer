@@ -10,23 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://github.com/ganeshsinghpawar/plugin-printer"
+    "url": "git+https://github.com/ganeshsinghpawar/plugin-printer"
   },
   "keywords": [
-    "Toast",
-    "Notification",
-    "Message",
-    "Alert",
     "ecosystem:cordova",
     "cordova-android"
   ],
   "engines": [
     {
       "name": "cordova",
-      "version": ">=3.0.0"
+      "version": ">=8.0.0"
     }
   ],
-  "author": "Stanley Idesis <stan.idesis@gmail.com>",
+  "author": "Ganesh Singh Pawar <pawarganeshsingh789@gmail.com>",
   "license": "MIT",
   "bugs": {
     
